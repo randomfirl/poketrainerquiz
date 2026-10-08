@@ -1,0 +1,41 @@
+        body {
+          background-image: url("images/bg.png");
+          background-attachment: fixed;
+          background-size: 300px;
+          background-color: rgb(255, 255, 255);
+          text-align: left;
+          font-size: xx-large;
+          color: black;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          color: #4f3551;
+        }
+
+        h1 {
+            margin-bottom:2px;
+            color:  rgb(151, 17, 151);;
+            font-size: xxx-large;
+        }
+
+        p {
+
+        }
+
+        h2 {
+            margin-bottom:2px;
+            color: rgb(151, 17, 151);
+            font-size: xx-large;
+        }
+
+        .quiz {
+            background-color: white;
+        }
+
+        .form-stuff {
+             height:60px;
+             width:810px;
+             line-height:1;
+             padding:50px;
+             background-color:transparent;
+             color: #621867;
+             scrollbar-base-color:orchid;
+        }
